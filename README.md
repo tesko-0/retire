@@ -1,4 +1,6 @@
 # RETIRE
+Made with Grok 4.6 medium reasoning, Harness: Pi
+Prompt "I want you to make a terminal based game inspired by Bladerunner. Not a text adventure."
 
 A **Blade Runner** street hunt for the terminal. Not a parser adventure.
 
